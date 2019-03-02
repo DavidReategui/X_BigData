@@ -1,2 +1,3 @@
  -- 1. Creacion de ddl para objeto HIVE
  -- 2.- Author: DARH
+ -- 3.- Descripcion : Ejemplo de transito entre los directorio de GitHub
