@@ -6,3 +6,5 @@
   newe_codigo integer,
   newe_descripcion character(30)
   )
+
+  (dl): El cambio de david Lopescaron
